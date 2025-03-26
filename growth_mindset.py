@@ -1,5 +1,5 @@
 # growth_mindset.
-this is a Growth mind set
+
 import streamlit as st
 
 # Title
